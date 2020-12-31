@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Umang Maheshwari. I'm a Software Engineer from India. 👋
+My name is Umang Maheshwari. I'm a Software Engineer from India :india:
 
 - 🔭 I’m currently working on: Development & deployment of ML & CNN models using GCP
 - 🌱 I’m currently learning *NLP, PySpark*
